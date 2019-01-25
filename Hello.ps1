@@ -10,10 +10,8 @@ Write-Host "I am JK"
 
 # test 3
 
-# test 4
+# comments
 
-# test 5
+Wirte-Host "This is Wind"
 
-# test 6
-
-#bbb
+# main code
