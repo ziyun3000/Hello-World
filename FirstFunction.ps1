@@ -5,3 +5,4 @@ function Abc { }
 
 function BBB { }
 
+function CCC { }
