@@ -3,3 +3,5 @@
 # Wrote by Wind
 function Abc { }
 
+function BBB { }
+
