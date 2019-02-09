@@ -3,6 +3,8 @@
 # Wrote by Wind
 function Abc { }
 
-function BBB { }
+function BBB { 
+    Write-Host "BBB"
+}
 
 function CCC { }
