@@ -11,3 +11,5 @@ function BBB {
 }
 
 function CCC { }
+
+function DDD { }
